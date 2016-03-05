@@ -1,5 +1,5 @@
-/* CSS reset
-    (all the browsers will see the website in the same by setting every tag to 0 (the website will look the same on all browsers))
+/* CSS reset 
+	(all the browsers will see the website in the same by setting every tag to 0 (the website will look the same on all browsers))
 */
 
 * {
@@ -7,12 +7,11 @@
     padding: 0;
     border: 0;
     font-size: 100%;
-    box-sizing: border-box;
 }
 
 
-/* General styles
-    (the styles used everywhere in the page (like the Body) or styles which are used in more than 2 of the modules bellow (h2, h3, h4, h5, h6, p, a, ul, li))
+/* General styles 
+	(the styles used everywhere in the page (like the Body) or styles which are used in more than 2 of the modules bellow (h2, h3, h4, h5, h6, p, a, ul, li))
 */
 
 body {
@@ -40,8 +39,8 @@ ul {
 }
 
 
-/* Header styles
-    (all the styles inside the < header > or < nav > tags)
+/* Header styles 
+	(all the styles inside the < header > or < nav > tags) 
 */
 
 .top-navigation {
@@ -81,8 +80,8 @@ ul {
 }
 
 
-/* Content styles
-    (all the styles inside the < sections > or < aside > tags)
+/* Content styles 
+	(all the styles inside the < sections > or < aside > tags)
 */
 
 .introduction {
@@ -165,8 +164,8 @@ ul {
 }
 
 
-/* Footer styles
-    (all the styles inside the < footer > tag)
+/* Footer styles 
+	(all the styles inside the < footer > tag)
 */
 
 .social {
@@ -224,8 +223,8 @@ ul {
 }
 
 
-/* Responsive styles
-    (the very last module in the CSS, contains all the media queries and it is dealing with the compatibility with mobiles and tablets)
+/* Responsive styles 
+	(the very last module in the CSS, contains all the media queries and it is dealing with the compatibility with mobiles and tablets)
 */
 
 
